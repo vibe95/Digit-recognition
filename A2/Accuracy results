@@ -1,0 +1,11 @@
+Avg train log likelihood  -172.353823347
+Avg test log likelihood  -173.043603091
+Train Accuracy  0.8398
+Test Accuracy  0.8372
+
+
+
+Avg train log likelihood  -29.4875731391
+Avg test log likelihood  -29.3802306385
+Train Accuracy  0.511
+Test Accuracy  0.4958

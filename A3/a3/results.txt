@@ -1,0 +1,122 @@
+Q1A
+
+Avg train log likelihood  -117.989022988
+Avg test log likelihood  -97.3003729208
+Train Accuracy  1.0
+Test Accuracy  0.7727
+
+Q1C
+(300, 784)
+Map logitsic regression
+1
+Avg train log likelihood  -23.0258509299
+Avg test log likelihood  -23.0258509299
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+1.0
+Avg train log likelihood  -23.0258509299
+Avg test log likelihood  -23.0258509299
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+4
+Avg train log likelihood  -45.619923342
+Avg test log likelihood  -40.6788719384
+Train Accuracy  1.0
+Test Accuracy  0.7692
+0.25
+Avg train log likelihood  -8.5999967897e+118
+Avg test log likelihood  -7.21891434083e+118
+Train Accuracy  0.88
+Test Accuracy  0.7108
+9
+Avg train log likelihood  -62.4437770972
+Avg test log likelihood  -53.5861496896
+Train Accuracy  1.0
+Test Accuracy  0.7707
+0.1111111111111111
+Avg train log likelihood  -5.09565876088e+191
+Avg test log likelihood  -4.30945386476e+191
+Train Accuracy  0.88
+Test Accuracy  0.7143
+16
+Avg train log likelihood  -74.7605737328
+Avg test log likelihood  -63.2561146456
+Train Accuracy  1.0
+Test Accuracy  0.7715
+0.0625
+Avg train log likelihood  -1.15498566812e+242
+Avg test log likelihood  -9.78472206701e+241
+Train Accuracy  0.883333333333
+Test Accuracy  0.7154
+25
+Avg train log likelihood  -81.2329810093
+Avg test log likelihood  -68.3992241843
+Train Accuracy  1.0
+Test Accuracy  0.7717
+0.04
+Avg train log likelihood  -8.50723881079e+280
+Avg test log likelihood  -7.21134606223e+280
+Train Accuracy  0.883333333333
+Test Accuracy  0.715
+36
+Avg train log likelihood  -84.1420855511
+Avg test log likelihood  -70.7209234612
+Train Accuracy  1.0
+Test Accuracy  0.7718
+0.027777777777777776
+/home/vibi/anaconda3/lib/python3.6/site-packages/scipy/special/_logsumexp.py:110: RuntimeWarning: overflow encountered in exp
+  tmp = np.exp(a - a_max)
+/home/vibi/anaconda3/lib/python3.6/site-packages/autograd/tracer.py:48: RuntimeWarning: invalid value encountered in subtract
+  return f_raw(*args, **kwargs)
+/home/vibi/anaconda3/lib/python3.6/site-packages/autograd/scipy/misc.py:14: RuntimeWarning: invalid value encountered in subtract
+  return g_repeated * b * anp.exp(x - ans_repeated)
+/home/vibi/anaconda3/lib/python3.6/site-packages/matplotlib/colors.py:823: UserWarning: Warning: converting a masked element to nan.
+  dtype = np.min_scalar_type(value)
+/home/vibi/anaconda3/lib/python3.6/site-packages/numpy/ma/core.py:2766: UserWarning: Warning: converting a masked element to nan.
+  order=order, subok=True, ndmin=ndmin)
+Avg train log likelihood  nan
+Avg test log likelihood  nan
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+49
+Avg train log likelihood  -85.5010507708
+Avg test log likelihood  -71.8073511717
+Train Accuracy  1.0
+Test Accuracy  0.7716
+0.02040816326530612
+/home/vibi/anaconda3/lib/python3.6/site-packages/scipy/special/_logsumexp.py:110: RuntimeWarning: overflow encountered in subtract
+  tmp = np.exp(a - a_max)
+/home/vibi/anaconda3/lib/python3.6/site-packages/autograd/tracer.py:48: RuntimeWarning: overflow encountered in subtract
+  return f_raw(*args, **kwargs)
+/home/vibi/anaconda3/lib/python3.6/site-packages/autograd/scipy/misc.py:14: RuntimeWarning: overflow encountered in subtract
+  return g_repeated * b * anp.exp(x - ans_repeated)
+/home/vibi/Documents/School/U of T/4th Year/Winter/csc412/A3/a3/a3starter.py:161: RuntimeWarning: overflow encountered in true_divide
+  w = w - w/sigma**2
+Avg train log likelihood  nan
+Avg test log likelihood  nan
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+64
+Avg train log likelihood  -86.1863536998
+Avg test log likelihood  -72.3556421461
+Train Accuracy  1.0
+Test Accuracy  0.7716
+0.015625
+Avg train log likelihood  nan
+Avg test log likelihood  nan
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+81
+Avg train log likelihood  -86.558111055
+Avg test log likelihood  -72.65319
+Train Accuracy  1.0
+Test Accuracy  0.7717
+0.012345679012345678
+Avg train log likelihood  nan
+Avg test log likelihood  nan
+Train Accuracy  0.113333333333
+Test Accuracy  0.098
+
+
+
+BEST FOR Q1C
